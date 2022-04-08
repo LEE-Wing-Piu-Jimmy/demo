@@ -1,4 +1,4 @@
-package com.example.demo;
+package comp3021Lab;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

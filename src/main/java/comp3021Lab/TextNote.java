@@ -1,4 +1,4 @@
-package com.example.demo;
+package comp3021Lab;
 
 import java.io.File;
 import java.io.FileNotFoundException;
